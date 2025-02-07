@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muneeb Ashraf</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Machine leanrning Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphaaa-m&label=Profile%20views&color=0e75b6&style=flat" alt="alphaaa-m" /> </p>
 
